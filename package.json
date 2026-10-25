@@ -1,0 +1,17 @@
+{
+  "name": "telegram-channel-scraper-javascript",
+  "version": "1.0.0",
+  "description": "JavaScript example for running the Telegram Channel Scraper on Apify.",
+  "type": "module",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "apify-client": "2.25.0"
+  }
+}

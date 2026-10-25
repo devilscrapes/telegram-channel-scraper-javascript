@@ -1,0 +1,9 @@
+{
+  "usernames": [
+    "telegram"
+  ],
+  "maxPostsPerChannel": 10,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
